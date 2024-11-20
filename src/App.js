@@ -1,7 +1,11 @@
-function App() {
+import Body from "./components/Body";
+
+const App = () => {
   return (
-    <div className="font-bold text-3xl">Hello ppl, lets build GPT Netflix</div>
+    <div>
+      <Body />
+    </div>
   );
-}
+};
 
 export default App;
