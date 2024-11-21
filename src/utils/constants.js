@@ -7,6 +7,8 @@ export const NETFLIX_BACKGROUND_URL =
 export const PROFILE_PICTURE_URL =
   "https://occ-0-1492-1009.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABR1GEuCeG1PohVXVqLSze3RbQddBYwaWqCt6oIo-yTXAA0j_c-GE7pWRffHd86JAC5qWSICxyeeU5CVOJSIFxhK-9Y7cBKg.png?r=5e0";
 
+export const TMDB_IMAGE_CDN = "https://image.tmdb.org/t/p/w500/";
+
 export const TMDB_API_OPTIONS = {
   method: "GET",
   headers: {
