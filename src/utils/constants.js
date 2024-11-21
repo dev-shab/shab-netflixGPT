@@ -6,3 +6,12 @@ export const NETFLIX_BACKGROUND_URL =
 
 export const PROFILE_PICTURE_URL =
   "https://occ-0-1492-1009.1.nflxso.net/dnm/api/v6/vN7bi_My87NPKvsBoib006Llxzg/AAAABR1GEuCeG1PohVXVqLSze3RbQddBYwaWqCt6oIo-yTXAA0j_c-GE7pWRffHd86JAC5qWSICxyeeU5CVOJSIFxhK-9Y7cBKg.png?r=5e0";
+
+export const TMDB_API_OPTIONS = {
+  method: "GET",
+  headers: {
+    accept: "application/json",
+    Authorization:
+      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0Yjk2ZGU5ZmY0ZjcxNDY0YzkwMTY5MGFiZGQ1NmRmZSIsIm5iZiI6MTczMjIxMTQ5NC43MTAwNDk2LCJzdWIiOiI2NzNmNzE2ZDg3MDgxYzcyNWE5NzI2MzYiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.lYlpHR924Ow1v9Exgvt6rpsfOQi9A40_9n2E5jewEko",
+  },
+};
