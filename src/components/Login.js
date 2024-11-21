@@ -81,7 +81,7 @@ const Login = () => {
       <Header />
       <div className="absolute">
         <img
-          className="scale-x-150 scale-y-105"
+          className="w-screen"
           src={NETFLIX_BACKGROUND_URL}
           alt="background"
         />
