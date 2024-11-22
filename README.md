@@ -27,6 +27,12 @@
 - Fetch Data for trailer Video
 - Update Store with Trailer Video Data
 - Embedded Youtube Video and make it autoplay
+- Built Movie List
+- Built Movie Card
+- TMDB Image CDN Url
+- Custom hook for Popular Movies
+- GPT Search Feature
+- GPT Search Bar - with Multi Language feature
 
 # Features
 
