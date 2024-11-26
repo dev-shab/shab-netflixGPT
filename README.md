@@ -33,6 +33,13 @@
 - Custom hook for Popular Movies
 - GPT Search Feature
 - GPT Search Bar - with Multi Language feature
+- Get Open AI API Key
+- Fetched Suggested GPT movies from TMDB
+- Added data to gpy slice
+- Reused Movie List component to make movie suggestion container
+- Memoization
+- Added .env file
+- Made the project responsive
 
 # Features
 
